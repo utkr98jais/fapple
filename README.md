@@ -1,4 +1,4 @@
-# fapple
+# fapple : Fapp your password
 iTunes encrypted backup brute force password checker
 
 This tool automates checking a list of passwords for the iTunes encrypted backup password, with a license restricting use
